@@ -1,0 +1,9 @@
+[submodule "Messages"]
+	path = Messages
+	url = ../Messages
+[submodule "Multithreading"]
+	path = Multithreading
+	url = ../../rs-classes/Multithreading.git
+[submodule "NetworkClass"]
+	path = NetworkClass
+	url = ../../rs-classes/NetworkClass.git
