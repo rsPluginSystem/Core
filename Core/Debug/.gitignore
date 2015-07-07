@@ -1,0 +1,8 @@
+*.tlog
+*.manifest
+*.lastbuildstate
+*.log
+*.obj
+*.idb
+*.pdb
+*.cache
